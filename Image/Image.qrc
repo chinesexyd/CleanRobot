@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>EnterItemPix.png</file>
+        <file>NumberItemMinus.png</file>
+        <file>NumberItemPlus.png</file>
+        <file>StatusInit.png</file>
+        <file>StatusUninit.png</file>
+        <file>ItemArea.png</file>
+        <file>ItemMap.png</file>
+        <file>ItemPump.png</file>
+        <file>ItemRoller.png</file>
+        <file>ItemRound.png</file>
+        <file>ItemWaterup.png</file>
+        <file>MenuButtonSet.png</file>
+        <file>MenuButtonStatus.png</file>
+        <file>MenuButtonTask.png</file>
+        <file>ReturnButton.png</file>
+        <file>MapButtonReset.png</file>
+        <file>MapButtonZoomin.png</file>
+        <file>MapButtonZoomout.png</file>
+    </qresource>
+</RCC>
